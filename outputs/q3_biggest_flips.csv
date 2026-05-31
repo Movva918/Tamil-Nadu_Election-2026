@@ -1,0 +1,11 @@
+ac_number,constituency,party_21,vote_pct_21,region,reserved,party_26,vote_pct_26,margin,flipped,vote_pct_diff,rank
+76,Tirukkoyilur,DMK,57.15,Central,GEN,AIADMK,33.68,285,True,23.47,1
+79,Sankarapuram,DMK,56.41,Central,GEN,AIADMK,34.13,3440,True,22.28,2
+127,Palani,DMK,53.15,South,GEN,AIADMK,32.23,693,True,20.92,3
+136,Krishnarayapuram,DMK,53.72,Kongu,SC,TVK,33.03,3503,True,20.69,4
+112,Avanashi,AIADMK,55.78,Kongu,SC,TVK,36.61,15373,True,19.17,5
+51,Uthangarai,AIADMK,53.34,North,SC,TVK,34.3,5198,True,19.04,6
+70,Gingee,DMK,53.58,Central,GEN,PMK,36.18,12645,True,17.4,7
+1,Gummidipundi,DMK,57.4,Chennai Metro,GEN,TVK,40.73,27945,True,16.67,8
+80,Kallakurichi,AIADMK,49.26,Central,SC,TVK,32.62,798,True,16.64,9
+116,Sulur,AIADMK,49.77,Kongu,GEN,TVK,33.26,4790,True,16.51,10

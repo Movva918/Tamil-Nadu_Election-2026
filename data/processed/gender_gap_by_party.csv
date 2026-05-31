@@ -1,0 +1,235 @@
+ac_number,male_t,female_t,gap,winning_party,wp,constituency,region,reserved
+1,91.5,90.23,-1.27,TVK,TVK,Gummidipundi,Chennai Metro,GEN
+2,90.88,88.71,-2.17,TVK,TVK,Ponneri,Chennai Metro,SC
+3,89.45,90.07,0.62,AIADMK,AIADMK,Tiruttani,Chennai Metro,GEN
+4,90.2,88.78,-1.42,TVK,TVK,Thiruvallur,Chennai Metro,GEN
+5,83.89,82.73,-1.16,TVK,TVK,Poonamallee,Chennai Metro,SC
+6,78.71,78.69,-0.02,TVK,TVK,Avadi,Chennai Metro,GEN
+7,78.3,78.43,0.13,TVK,TVK,Maduravoyal,Chennai Metro,GEN
+8,77.37,76.34,-1.03,TVK,TVK,Ambattur,Chennai Metro,GEN
+9,83.94,82.88,-1.06,TVK,TVK,Madavaram,Chennai Metro,GEN
+10,84.25,84.29,0.04,TVK,TVK,Thiruvottiyur,Chennai Metro,GEN
+11,90.37,90.73,0.36,TVK,TVK,Dr. Radhakrishnan Nagar,Chennai Metro,GEN
+12,89.74,89.72,-0.02,TVK,TVK,Perambur,Chennai Metro,GEN
+13,86.49,85.75,-0.74,TVK,TVK,Kolathur,Chennai Metro,GEN
+14,86.4,85.62,-0.78,TVK,TVK,Villivakkam,Chennai Metro,GEN
+15,79.39,77.96,-1.43,TVK,TVK,Thiru-Vi-Ka-Nagar,Chennai Metro,SC
+16,85.92,85.19,-0.73,TVK,TVK,Egmore,Chennai Metro,SC
+17,79.37,78.92,-0.45,TVK,TVK,Royapuram,Chennai Metro,GEN
+18,83.61,81.71,-1.9,DMK,DMK,Harbour,Chennai Metro,GEN
+19,84.58,83.97,-0.61,DMK,DMK,Chepauk-Thiruvallikeni,Chennai Metro,GEN
+20,83.0,82.53,-0.47,TVK,TVK,Thousand Lights,Chennai Metro,GEN
+21,85.75,85.53,-0.22,TVK,TVK,Anna Nagar,Chennai Metro,GEN
+22,85.45,85.54,0.09,TVK,TVK,Virugampakkam,Chennai Metro,GEN
+23,78.31,77.42,-0.89,TVK,TVK,Saidapet,Chennai Metro,GEN
+24,83.87,83.23,-0.64,TVK,TVK,Theayagaraya Nagar,Chennai Metro,GEN
+25,75.4,74.31,-1.09,TVK,TVK,Mylapore,Chennai Metro,GEN
+26,84.72,84.02,-0.7,TVK,TVK,Velachery,Chennai Metro,GEN
+27,80.62,80.17,-0.45,TVK,TVK,Shozhinganallur,Chennai Metro,GEN
+28,86.58,85.66,-0.92,TVK,TVK,Alandur,Chennai Metro,GEN
+29,86.92,85.32,-1.6,TVK,TVK,Sriperumbudur,Chennai Metro,SC
+30,84.12,83.15,-0.97,TVK,TVK,Pallavaram,Chennai Metro,GEN
+31,84.16,83.65,-0.51,TVK,TVK,Tambaram,Chennai Metro,GEN
+32,87.13,85.66,-1.47,TVK,TVK,Chengalpattu,Chennai Metro,GEN
+33,89.45,87.75,-1.7,TVK,TVK,Thiruporur,North,GEN
+34,91.46,90.5,-0.96,AIADMK,AIADMK,Cheyyur,North,SC
+35,92.76,91.87,-0.89,AIADMK,AIADMK,Maduranthakam,North,SC
+36,92.24,89.96,-2.28,TVK,TVK,Uthiramerur,North,GEN
+37,88.5,85.72,-2.78,TVK,TVK,Kancheepuram,North,GEN
+38,90.66,89.5,-1.16,TVK,TVK,Arakonam,North,SC
+39,90.09,89.48,-0.61,TVK,TVK,Sholinghur,North,GEN
+40,86.83,88.24,1.41,TVK,TVK,Katpadi,North,GEN
+41,88.41,88.1,-0.31,TVK,TVK,Ranipet,North,GEN
+42,89.66,91.27,1.61,AIADMK,AIADMK,Arcot,North,GEN
+43,87.67,87.97,0.3,TVK,TVK,Vellore,North,GEN
+44,87.55,90.3,2.75,AIADMK,AIADMK,Anaikattu,North,GEN
+45,85.34,87.74,2.4,TVK,TVK,Kilvaithinankuppam,North,SC
+46,90.21,90.46,0.25,TVK,TVK,Gudiyatham,North,SC
+47,85.52,87.97,2.45,IUML,Others,Vaniayambadi,North,GEN
+48,90.23,90.64,0.41,DMK,DMK,Ambur,North,GEN
+49,85.89,91.65,5.76,AIADMK,AIADMK,Jolarpet,North,GEN
+50,87.99,88.92,0.93,TVK,TVK,Tiruppattur,North,GEN
+51,85.61,86.12,0.51,TVK,TVK,Uthangarai,North,SC
+52,86.54,88.5,1.96,AIADMK,AIADMK,Bargur,North,GEN
+53,83.74,84.56,0.82,TVK,TVK,Krishnagiri,North,GEN
+54,89.58,89.6,0.02,DMK,DMK,Veppanahalli,North,GEN
+55,80.47,80.21,-0.26,AIADMK,AIADMK,Hosur,North,GEN
+56,86.94,84.74,-2.2,CPI,Others,Thalli,North,GEN
+57,92.22,92.52,0.3,AIADMK,AIADMK,Palacode,North,GEN
+58,89.98,91.22,1.24,TVK,TVK,Pennagaram,North,GEN
+59,89.11,89.62,0.51,PMK,PMK,Dharmapuri,North,GEN
+60,89.57,90.86,1.29,AIADMK,AIADMK,Pappireddippatti,North,GEN
+61,87.17,87.89,0.72,AIADMK,AIADMK,Harur,North,SC
+62,88.8,89.72,0.92,AIADMK,AIADMK,Chengam,North,SC
+63,86.93,87.29,0.36,DMK,DMK,Tiruvannamalai,North,GEN
+64,89.72,90.49,0.77,AIADMK,AIADMK,Kilpennathur,North,GEN
+65,90.06,91.04,0.98,AIADMK,AIADMK,Kalasapakkam,North,GEN
+66,87.73,90.03,2.3,TVK,TVK,Polur,North,GEN
+67,88.11,89.28,1.17,AIADMK,AIADMK,Arani,North,GEN
+68,92.29,91.56,-0.73,AIADMK,AIADMK,Cheyyar,North,GEN
+69,88.94,88.3,-0.64,DMK,DMK,Vandavasi,North,SC
+70,87.89,88.67,0.78,PMK,PMK,Gingee,Central,GEN
+71,89.59,89.63,0.04,AIADMK,AIADMK,Mailam,Central,GEN
+72,88.29,88.74,0.45,VCK,VCK,Tindivanam,Central,SC
+73,90.18,91.8,1.62,DMK,DMK,Vanur,Central,SC
+74,86.59,86.67,0.08,DMK,DMK,Villupuram,Central,GEN
+75,89.76,90.91,1.15,PMK,PMK,Vikravandi,Central,GEN
+76,87.68,89.07,1.39,AIADMK,AIADMK,Tirukkoyilur,Central,GEN
+77,87.92,90.54,2.62,DMK,DMK,Ulundurpet,Central,GEN
+78,87.25,90.48,3.23,DMK,DMK,Rishivandiam,Central,GEN
+79,85.22,89.83,4.61,AIADMK,AIADMK,Sankarapuram,Central,GEN
+80,84.79,90.67,5.88,TVK,TVK,Kallakurichi,Central,SC
+81,86.9,90.53,3.63,AIADMK,AIADMK,Gangavalli,Central,SC
+82,89.01,91.24,2.23,AIADMK,AIADMK,Attur,Central,SC
+83,91.78,92.15,0.37,AIADMK,AIADMK,Yercaud,Central,ST
+84,90.75,90.91,0.16,AIADMK,AIADMK,Omalur,Central,GEN
+85,88.63,89.66,1.03,AIADMK,AIADMK,Mettur,Central,GEN
+86,92.04,92.07,0.03,AIADMK,AIADMK,Edapadi,Central,GEN
+87,92.38,92.67,0.29,AIADMK,AIADMK,Sankari,Central,GEN
+88,90.02,89.98,-0.04,TVK,TVK,Salem (West),Central,GEN
+89,87.79,87.02,-0.77,TVK,TVK,Salem (North),Central,GEN
+90,90.89,91.14,0.25,TVK,TVK,Salem (South),Central,GEN
+91,93.07,93.63,0.56,TVK,TVK,Veerapandi,Central,GEN
+92,89.96,91.14,1.18,TVK,TVK,Rasipuram,Central,SC
+93,88.88,91.29,2.41,TVK,TVK,Sendamangalam,Central,ST
+94,85.75,89.46,3.71,TVK,TVK,Namakkal,Central,GEN
+95,87.95,92.23,4.28,AIADMK,AIADMK,Paramathi-Velur,Central,GEN
+96,88.96,91.07,2.11,TVK,TVK,Tiruchengode,Central,GEN
+97,92.38,92.81,0.43,TVK,TVK,Kumarapalayam,Central,GEN
+98,90.13,89.47,-0.66,TVK,TVK,Erode (East),Kongu,GEN
+99,87.95,88.0,0.05,TVK,TVK,Erode (West),Kongu,GEN
+100,90.82,89.88,-0.94,TVK,TVK,Modakurichi,Kongu,GEN
+101,89.22,88.47,-0.75,AIADMK,AIADMK,Dharapuram,Kongu,SC
+102,92.26,90.93,-1.33,AIADMK,AIADMK,Kangayam,Kongu,GEN
+103,93.26,91.72,-1.54,AIADMK,AIADMK,Perundurai,Kongu,GEN
+104,92.03,91.77,-0.26,AIADMK,AIADMK,Bhavani,Kongu,GEN
+105,88.76,87.68,-1.08,AIADMK,AIADMK,Anthiyur,Kongu,GEN
+106,91.51,89.93,-1.58,TVK,TVK,Gobichettipalayam,Kongu,GEN
+107,90.01,88.75,-1.26,TVK,TVK,Bhavanisagar,Kongu,SC
+108,78.78,76.42,-2.36,BJP,BJP,Udhagamandalam,Kongu,GEN
+109,79.78,81.73,1.95,DMK,DMK,Gudalur,Kongu,SC
+110,79.44,77.27,-2.17,DMK,DMK,Coonoor,Kongu,GEN
+111,86.03,85.81,-0.22,TVK,TVK,Mettupalayam,Kongu,GEN
+112,91.42,89.78,-1.64,TVK,TVK,Avanashi,Kongu,SC
+113,83.24,82.75,-0.49,TVK,TVK,Tiruppur (North),Kongu,GEN
+114,91.45,89.93,-1.52,TVK,TVK,Tiruppur (South),Kongu,GEN
+115,91.62,89.62,-2.0,TVK,TVK,Palladam,Kongu,GEN
+116,88.36,88.18,-0.18,TVK,TVK,Sulur,Kongu,GEN
+117,84.88,86.11,1.23,TVK,TVK,Kavundampalayam,Kongu,GEN
+118,74.73,76.29,1.56,TVK,TVK,Coimbatore North,Kongu,GEN
+119,87.3,87.72,0.42,AIADMK,AIADMK,Thondamuthur,Kongu,GEN
+120,81.85,82.38,0.53,DMK,DMK,Coimbatore South,Kongu,GEN
+121,80.95,81.18,0.23,TVK,TVK,Singanallur,Kongu,GEN
+122,86.91,87.25,0.34,TVK,TVK,Kinathukadavu,Kongu,GEN
+123,89.29,87.0,-2.29,DMK,DMK,Pollachi,Kongu,GEN
+124,86.48,85.47,-1.01,DMK,DMK,Valparai,Kongu,SC
+125,87.93,86.85,-1.08,DMK,DMK,Udumalpet,Kongu,GEN
+126,86.87,86.76,-0.11,DMK,DMK,Madathukulam,Kongu,GEN
+127,86.74,85.7,-1.04,AIADMK,AIADMK,Palani,South,GEN
+128,90.53,90.96,0.43,DMK,DMK,Oddanchatram,South,GEN
+129,88.5,89.95,1.45,DMK,DMK,Athoor,South,GEN
+130,87.58,89.0,1.42,TVK,TVK,Nilakottai,South,SC
+131,89.62,92.17,2.55,AIADMK,AIADMK,Natham,South,GEN
+132,86.27,86.27,0.0,DMK,DMK,Dindigul,South,GEN
+133,91.1,92.99,1.89,DMK,DMK,Vedasandur,South,GEN
+134,90.88,92.56,1.68,DMK,DMK,Aravakurichi,Kongu,GEN
+135,92.58,94.1,1.52,AIADMK,AIADMK,Karur,Kongu,GEN
+136,91.75,93.05,1.3,TVK,TVK,Krishnarayapuram,Kongu,SC
+137,92.2,93.21,1.01,DMK,DMK,Kulithalai,Kongu,GEN
+138,88.18,89.31,1.13,TVK,TVK,Manapparai,Delta,GEN
+139,87.47,88.22,0.75,TVK,TVK,Srirangam,Delta,GEN
+140,80.36,82.01,1.65,DMK,DMK,Tiruchirapalli (West),Delta,GEN
+141,81.66,81.85,0.19,TVK,TVK,Tiruchirapalli (East),Delta,GEN
+142,80.08,82.17,2.09,TVK,TVK,Thiruverambur,Delta,GEN
+143,84.04,88.52,4.48,AIADMK,AIADMK,Lalgudi,Delta,GEN
+144,86.56,88.63,2.07,DMK,DMK,Manachanallur,Delta,GEN
+145,86.06,87.19,1.13,TVK,TVK,Musiri,Delta,GEN
+146,84.5,88.38,3.88,TVK,TVK,Thuraiyur,Delta,SC
+147,81.89,89.6,7.71,TVK,TVK,Perambalur,Central,SC
+148,78.2,91.32,13.12,DMK,DMK,Kunnam,Central,GEN
+149,85.63,92.15,6.52,AIADMK,AIADMK,Ariyalur,Central,GEN
+150,82.4,89.0,6.6,PMK,PMK,Jayankondam,Central,GEN
+151,76.89,89.39,12.5,DMK,DMK,Tittakudi,Central,SC
+152,82.59,89.34,6.75,DMDK,Others,Vriddhachalam,Central,GEN
+153,86.24,87.85,1.61,AIADMK,AIADMK,Neyveli,Central,GEN
+154,85.73,86.39,0.66,AIADMK,AIADMK,Panruti,Central,GEN
+155,82.94,84.38,1.44,TVK,TVK,Cuddalore,Central,GEN
+156,87.51,90.18,2.67,DMK,DMK,Kurinjipadi,Central,GEN
+157,86.07,89.36,3.29,AIADMK,AIADMK,Bhuvanagiri,Central,GEN
+158,80.55,86.57,6.02,DMK,DMK,Chidambaram,Central,GEN
+159,78.72,85.16,6.44,VCK,VCK,Kattumannarkoil,Central,SC
+160,78.89,85.75,6.86,DMK,DMK,Sirkali,Delta,SC
+161,77.51,81.56,4.05,INC,INC,Mayiladuthurai,Delta,GEN
+162,79.96,88.02,8.06,DMK,DMK,Poompuhar,Delta,GEN
+163,81.97,89.47,7.5,DMK,DMK,Nagapattinam,Delta,GEN
+164,85.25,90.43,5.18,CPI(M),Others,Kilvelur,Delta,SC
+165,79.93,89.91,9.98,AIADMK,AIADMK,Vedaranyam,Delta,GEN
+166,79.28,87.35,8.07,CPI,Others,Thiruthuraipundi,Delta,SC
+167,77.26,86.48,9.22,AMMK,Others,Mannargudi,Delta,GEN
+168,79.79,86.1,6.31,DMK,DMK,Thiruvarur,Delta,GEN
+169,82.52,89.03,6.51,AIADMK,AIADMK,Nannilam,Delta,GEN
+170,78.48,83.03,4.55,DMK,DMK,Thiruvidamarudur,Delta,SC
+171,79.69,82.33,2.64,TVK,TVK,Kumbakonam,Delta,GEN
+172,77.53,82.99,5.46,IUML,Others,Papanasam,Delta,GEN
+173,84.55,85.56,1.01,DMK,DMK,Thiruvaiyaru,Delta,GEN
+174,76.49,78.38,1.89,TVK,TVK,Thanjavur,Delta,GEN
+175,77.53,87.79,10.26,DMK,DMK,Orathanad,Delta,GEN
+176,68.97,81.03,12.06,DMK,DMK,Pattukkottai,Delta,GEN
+177,77.0,86.33,9.33,DMK,DMK,Peravurani,Delta,GEN
+178,81.05,88.5,7.45,TVK,TVK,Gandharvakottai,Delta,SC
+179,86.88,92.6,5.72,AIADMK,AIADMK,Viralimalai,Delta,GEN
+180,80.31,86.1,5.79,DMK,DMK,Pudukkottai,Delta,GEN
+181,76.22,87.91,11.69,DMK,DMK,Thirumayam,Delta,GEN
+182,78.77,89.77,11.0,DMK,DMK,Alangudi,Delta,GEN
+183,73.36,83.96,10.6,TVK,TVK,Arantangi,Delta,GEN
+184,69.26,78.82,9.56,TVK,TVK,Karaikudi,South,GEN
+185,70.76,83.89,13.13,TVK,TVK,Tiruppattur,South,GEN
+186,69.19,82.29,13.1,TVK,TVK,Sivaganga,South,GEN
+187,74.69,82.92,8.23,TVK,TVK,Manamadurai,South,SC
+188,75.78,88.44,12.66,INC,INC,Melur,South,GEN
+189,79.07,80.27,1.2,TVK,TVK,Madurai East,South,GEN
+190,86.18,87.56,1.38,TVK,TVK,Sholavandan,South,SC
+191,72.07,72.29,0.22,TVK,TVK,Madurai North,South,GEN
+192,78.2,78.17,-0.03,TVK,TVK,Madurai South,South,GEN
+193,74.18,73.55,-0.63,TVK,TVK,Madurai Central,South,GEN
+194,77.2,78.21,1.01,TVK,TVK,Madurai West,South,GEN
+195,80.92,81.63,0.71,TVK,TVK,Thiruparankundram,South,GEN
+196,84.44,88.3,3.86,DMK,DMK,Thirumangalam,South,GEN
+197,80.03,84.81,4.78,TVK,TVK,Usilampatti,South,GEN
+198,81.2,85.13,3.93,DMK,DMK,Andipatti,South,GEN
+199,78.21,78.45,0.24,TVK,TVK,Periyakulam,South,SC
+200,80.52,84.26,3.74,DMK,DMK,Bodinayakanur,South,GEN
+201,79.06,82.31,3.25,TVK,TVK,Cumbum,South,GEN
+202,82.37,85.99,3.62,TVK,TVK,Rajapalayam,South,GEN
+203,82.76,86.48,3.72,TVK,TVK,Srivilliputhur,South,SC
+204,83.32,87.29,3.97,DMK,DMK,Sattur,South,GEN
+205,83.26,84.76,1.5,TVK,TVK,Sivakasi,South,GEN
+206,81.24,83.98,2.74,TVK,TVK,Virudhunagar,South,GEN
+207,82.17,86.91,4.74,DMK,DMK,Aruppukottai,South,GEN
+208,84.92,89.17,4.25,DMK,DMK,Tiruchuli,South,GEN
+209,73.63,85.16,11.53,DMK,DMK,Paramakudi,South,SC
+210,69.83,83.66,13.83,TVK,TVK,Tiruvadanai,South,GEN
+211,69.6,81.01,11.41,DMK,DMK,Ramanathapuram,South,GEN
+212,71.47,80.87,9.4,DMK,DMK,Mudukulathur,South,GEN
+213,82.03,85.87,3.84,DMK,DMK,Vilathikulam,South,GEN
+214,80.16,81.5,1.34,TVK,TVK,Thoothukkudi,South,GEN
+215,76.97,80.63,3.66,DMK,DMK,Tiruchendur,South,GEN
+216,79.49,82.15,2.66,TVK,TVK,Srivaikuntam,South,GEN
+217,77.95,80.01,2.06,TVK,TVK,Ottapidaram,South,SC
+218,76.5,81.62,5.12,DMK,DMK,Kovilpatti,South,GEN
+219,78.15,83.16,5.01,AIADMK,AIADMK,Sankarankovil,South,SC
+220,77.46,84.97,7.51,DMK,DMK,Vasudevanallur,South,SC
+221,75.3,87.11,11.81,DMK,DMK,Kadayanallur,South,GEN
+222,80.64,83.82,3.18,DMK,DMK,Tenkasi,South,GEN
+223,84.16,86.08,1.92,DMK,DMK,Alangulam,South,GEN
+224,77.53,78.62,1.09,TVK,TVK,Tirunelveli,South,GEN
+225,80.63,84.62,3.99,AIADMK,AIADMK,Ambasamudram,South,GEN
+226,67.56,70.1,2.54,DMK,DMK,Palayamcottai,South,GEN
+227,78.04,82.19,4.15,TVK,TVK,Nanguneri,South,GEN
+228,75.78,83.88,8.1,TVK,TVK,Radhapuram,South,GEN
+229,77.65,84.58,6.93,AIADMK,AIADMK,Kanniyakumari,South,GEN
+230,72.32,76.66,4.34,DMK,DMK,Nagercoil,South,GEN
+231,68.58,78.93,10.35,INC,INC,Colachel,South,GEN
+232,70.23,79.68,9.45,CPI(M),Others,Padmanabhapuram,South,GEN
+233,70.64,79.44,8.8,INC,INC,Vilavancode,South,GEN
+234,64.02,77.61,13.59,INC,INC,Killiyoor,South,GEN

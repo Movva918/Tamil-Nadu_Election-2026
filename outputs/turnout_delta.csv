@@ -1,0 +1,235 @@
+ac_number,constituency,region,reserved,turnout_2021,turnout_2026,delta
+14,Villivakkam,Chennai Metro,GEN,56.78,86.68,29.9
+26,Velachery,Chennai Metro,GEN,56.2,85.19,28.99
+21,Anna Nagar,Chennai Metro,GEN,57.96,86.51,28.55
+114,Tiruppur (South),Kongu,GEN,63.13,91.29,28.16
+22,Virugampakkam,Chennai Metro,GEN,58.03,86.17,28.14
+24,Theayagaraya Nagar,Chennai Metro,GEN,56.4,84.48,28.08
+12,Perambur,Chennai Metro,GEN,63.55,90.4,26.85
+20,Thousand Lights,Chennai Metro,GEN,56.92,83.72,26.8
+19,Chepauk-Thiruvallikeni,Chennai Metro,GEN,58.74,84.81,26.07
+28,Alandur,Chennai Metro,GEN,61.18,86.9,25.72
+13,Kolathur,Chennai Metro,GEN,61.79,86.99,25.2
+18,Harbour,Chennai Metro,GEN,57.85,82.93,25.08
+27,Shozhinganallur,Chennai Metro,GEN,55.71,80.76,25.05
+16,Egmore,Chennai Metro,SC,61.84,86.4,24.56
+31,Tambaram,Chennai Metro,GEN,60.01,84.51,24.5
+115,Palladam,Kongu,GEN,67.12,91.34,24.22
+98,Erode (East),Kongu,GEN,66.82,90.52,23.7
+30,Pallavaram,Chennai Metro,GEN,61.16,84.2,23.04
+32,Chengalpattu,Chennai Metro,GEN,64.09,86.91,22.82
+120,Coimbatore South,Kongu,GEN,61.62,82.95,21.33
+23,Saidapet,Chennai Metro,GEN,57.83,78.61,20.78
+113,Tiruppur (North),Kongu,GEN,62.8,83.45,20.65
+11,Dr. Radhakrishnan Nagar,Chennai Metro,GEN,71.23,90.95,19.72
+117,Kavundampalayam,Kongu,GEN,66.81,86.26,19.45
+10,Thiruvottiyur,Chennai Metro,GEN,65.38,84.58,19.2
+121,Singanallur,Kongu,GEN,62.96,81.9,18.94
+25,Mylapore,Chennai Metro,GEN,56.79,75.59,18.8
+99,Erode (West),Kongu,GEN,70.31,88.9,18.59
+15,Thiru-Vi-Ka-Nagar,Chennai Metro,SC,61.01,79.24,18.23
+7,Maduravoyal,Chennai Metro,GEN,60.58,78.8,18.22
+88,Salem (West),Central,GEN,72.82,90.99,18.17
+46,Gudiyatham,North,SC,73.06,90.95,17.89
+43,Vellore,North,GEN,71.08,88.66,17.58
+119,Thondamuthur,Kongu,GEN,70.94,88.22,17.28
+9,Madavaram,Chennai Metro,GEN,66.68,83.88,17.2
+132,Dindigul,South,GEN,70.61,87.61,17.0
+17,Royapuram,Chennai Metro,GEN,63.08,79.8,16.72
+122,Kinathukadavu,Kongu,GEN,71.17,87.75,16.58
+48,Ambur,North,GEN,74.72,91.11,16.39
+118,Coimbatore North,Kongu,GEN,59.89,76.19,16.3
+125,Udumalpet,Kongu,GEN,72.16,88.28,16.12
+124,Valparai,Kongu,SC,70.68,86.68,16.0
+214,Thoothukkudi,South,GEN,66.09,81.73,15.64
+112,Avanashi,Kongu,SC,75.91,91.54,15.63
+100,Modakurichi,Kongu,GEN,76.36,91.92,15.56
+38,Arakonam,North,SC,75.41,90.8,15.39
+63,Tiruvannamalai,North,GEN,72.91,88.02,15.11
+141,Tiruchirapalli (East),Delta,GEN,67.87,82.97,15.1
+89,Salem (North),Central,GEN,73.4,88.35,14.95
+142,Thiruverambur,Delta,GEN,67.42,82.32,14.9
+102,Kangayam,Kongu,GEN,77.91,92.8,14.89
+90,Salem (South),Central,GEN,76.87,91.73,14.86
+8,Ambattur,Chennai Metro,GEN,62.54,77.33,14.79
+101,Dharapuram,Kongu,SC,75.22,89.96,14.74
+126,Madathukulam,Kongu,GEN,73.2,87.68,14.48
+192,Madurai South,South,GEN,64.29,78.66,14.37
+85,Mettur,Central,GEN,76.3,90.54,14.24
+37,Kancheepuram,North,GEN,74.33,88.54,14.21
+40,Katpadi,North,GEN,74.64,88.79,14.15
+163,Nagapattinam,Delta,GEN,72.57,86.71,14.14
+140,Tiruchirapalli (West),Delta,GEN,68.06,82.19,14.13
+205,Sivakasi,South,GEN,70.7,84.74,14.04
+97,Kumarapalayam,Central,GEN,79.39,93.31,13.92
+130,Nilakottai,South,SC,75.98,89.28,13.3
+34,Cheyyur,North,SC,78.85,92.15,13.3
+153,Neyveli,Central,GEN,75.21,88.35,13.14
+138,Manapparai,Delta,GEN,76.97,90.04,13.07
+127,Palani,South,GEN,74.11,87.0,12.89
+194,Madurai West,South,GEN,65.81,78.66,12.85
+82,Attur,Central,SC,78.55,91.39,12.84
+116,Sulur,Kongu,GEN,76.29,88.96,12.67
+44,Anaikattu,North,GEN,77.55,90.21,12.66
+1,Gummidipundi,Chennai Metro,GEN,78.88,91.52,12.64
+193,Madurai Central,South,GEN,61.82,74.46,12.64
+107,Bhavanisagar,Kongu,SC,77.96,90.41,12.45
+76,Tirukkoyilur,Central,GEN,77.09,89.47,12.38
+4,Thiruvallur,Chennai Metro,GEN,77.97,90.31,12.34
+29,Sriperumbudur,Chennai Metro,SC,74.39,86.73,12.34
+69,Vandavasi,North,SC,77.42,89.62,12.2
+33,Thiruporur,North,GEN,76.99,89.19,12.2
+158,Chidambaram,Central,GEN,73.17,85.2,12.03
+133,Vedasandur,South,GEN,80.91,92.9,11.99
+131,Natham,South,GEN,79.56,91.55,11.99
+203,Srivilliputhur,South,SC,74.14,86.09,11.95
+218,Kovilpatti,South,GEN,68.34,80.25,11.91
+227,Nanguneri,South,GEN,69.51,81.38,11.87
+81,Gangavalli,Central,SC,78.36,90.16,11.8
+139,Srirangam,Delta,GEN,77.13,88.9,11.77
+228,Radhapuram,South,GEN,69.31,81.05,11.74
+174,Thanjavur,Delta,GEN,67.02,78.72,11.7
+206,Virudhunagar,South,GEN,72.19,83.87,11.68
+201,Cumbum,South,GEN,70.35,82.03,11.68
+36,Uthiramerur,North,GEN,81.0,92.68,11.68
+129,Athoor,South,GEN,78.87,90.49,11.62
+224,Tirunelveli,South,GEN,67.71,79.28,11.57
+42,Arcot,North,GEN,80.03,91.58,11.55
+221,Kadayanallur,South,GEN,70.93,82.44,11.51
+2,Ponneri,Chennai Metro,SC,78.75,90.24,11.49
+96,Tiruchengode,Central,GEN,79.99,91.45,11.46
+50,Tiruppattur,North,GEN,77.96,89.4,11.44
+226,Palayamcottai,South,GEN,58.98,70.32,11.34
+73,Vanur,Central,SC,80.5,91.8,11.3
+35,Maduranthakam,North,SC,82.07,93.36,11.29
+47,Vaniayambadi,North,GEN,76.09,87.38,11.29
+3,Tiruttani,Chennai Metro,GEN,80.05,91.22,11.17
+6,Avadi,Chennai Metro,GEN,68.18,79.34,11.16
+225,Ambasamudram,South,GEN,72.8,83.95,11.15
+41,Ranipet,North,GEN,77.75,88.87,11.12
+145,Musiri,Delta,GEN,77.3,88.36,11.06
+65,Kalasapakkam,North,GEN,80.68,91.69,11.01
+45,Kilvaithinankuppam,North,SC,76.87,87.72,10.85
+64,Kilpennathur,North,GEN,80.43,91.23,10.8
+123,Pollachi,Kongu,GEN,78.1,88.9,10.8
+204,Sattur,South,GEN,75.78,86.48,10.7
+111,Mettupalayam,Kongu,GEN,75.96,86.64,10.68
+202,Rajapalayam,South,GEN,74.75,85.36,10.61
+219,Sankarankovil,South,SC,72.28,82.7,10.42
+55,Hosur,North,GEN,70.6,81.02,10.42
+59,Dharmapuri,North,GEN,81.07,91.48,10.41
+68,Cheyyar,North,GEN,82.59,92.89,10.3
+220,Vasudevanallur,South,SC,72.76,83.02,10.26
+70,Gingee,Central,GEN,79.32,89.57,10.25
+180,Pudukkottai,Delta,GEN,74.09,84.34,10.25
+103,Perundurai,Kongu,GEN,83.55,93.76,10.21
+208,Tiruchuli,South,GEN,78.11,88.31,10.2
+71,Mailam,Central,GEN,80.39,90.57,10.18
+5,Poonamallee,Chennai Metro,SC,73.7,83.81,10.11
+222,Tenkasi,South,GEN,73.32,83.41,10.09
+168,Thiruvarur,Delta,GEN,73.74,83.8,10.06
+61,Harur,North,SC,79.56,89.56,10.0
+72,Tindivanam,Central,SC,79.55,89.54,9.99
+39,Sholinghur,North,GEN,80.69,90.66,9.97
+108,Udhagamandalam,Kongu,GEN,69.02,78.87,9.85
+80,Kallakurichi,Central,SC,78.86,88.66,9.8
+146,Thuraiyur,Delta,SC,77.81,87.6,9.79
+135,Karur,Kongu,GEN,84.69,94.44,9.75
+186,Sivaganga,South,GEN,67.35,77.07,9.72
+67,Arani,North,GEN,80.4,90.12,9.72
+134,Aravakurichi,Kongu,GEN,82.99,92.65,9.66
+217,Ottapidaram,South,SC,70.72,80.33,9.61
+209,Paramakudi,South,SC,71.22,80.82,9.6
+171,Kumbakonam,Delta,GEN,72.37,81.92,9.55
+74,Villupuram,Central,GEN,78.25,87.76,9.51
+157,Bhuvanagiri,Central,GEN,79.4,88.91,9.51
+197,Usilampatti,South,GEN,74.35,83.85,9.5
+161,Mayiladuthurai,Delta,GEN,71.03,80.42,9.39
+93,Sendamangalam,Central,ST,82.05,91.43,9.38
+233,Vilavancode,South,GEN,67.42,76.72,9.3
+56,Thalli,North,GEN,77.31,86.56,9.25
+78,Rishivandiam,Central,GEN,80.3,89.54,9.24
+155,Cuddalore,Central,GEN,76.16,85.4,9.24
+52,Bargur,North,GEN,79.82,89.04,9.22
+105,Anthiyur,Kongu,GEN,80.46,89.66,9.2
+95,Paramathi-Velur,Central,GEN,82.95,92.11,9.16
+75,Vikravandi,Central,GEN,82.53,91.57,9.04
+196,Thirumangalam,South,GEN,79.03,88.06,9.03
+152,Vriddhachalam,Central,GEN,77.94,86.96,9.02
+207,Aruppukottai,South,GEN,76.83,85.84,9.01
+104,Bhavani,Kongu,GEN,84.39,93.39,9.0
+162,Poompuhar,Delta,GEN,75.77,84.76,8.99
+198,Andipatti,South,GEN,75.4,84.38,8.98
+87,Sankari,Central,GEN,84.69,93.64,8.95
+60,Pappireddippatti,North,GEN,83.35,92.28,8.93
+110,Coonoor,Kongu,GEN,70.81,79.63,8.82
+94,Namakkal,Central,GEN,80.47,89.27,8.8
+54,Veppanahalli,North,GEN,81.51,90.29,8.78
+191,Madurai North,South,GEN,64.39,73.15,8.76
+164,Kilvelur,Delta,SC,80.2,88.93,8.73
+83,Yercaud,Central,ST,84.25,92.97,8.72
+92,Rasipuram,Central,SC,83.48,92.17,8.69
+216,Srivaikuntam,South,GEN,73.62,82.28,8.66
+62,Chengam,North,SC,81.8,90.45,8.65
+183,Arantangi,Delta,GEN,70.91,79.53,8.62
+215,Tiruchendur,South,GEN,71.34,79.95,8.61
+195,Thiruparankundram,South,GEN,73.5,82.11,8.61
+199,Periyakulam,South,SC,70.83,79.35,8.52
+189,Madurai East,South,GEN,72.28,80.77,8.49
+223,Alangulam,South,GEN,78.06,86.46,8.4
+106,Gobichettipalayam,Kongu,GEN,83.64,91.97,8.33
+136,Krishnarayapuram,Kongu,SC,85.05,93.37,8.32
+109,Gudalur,Kongu,SC,73.32,81.64,8.32
+49,Jolarpet,North,GEN,81.63,89.94,8.31
+79,Sankarapuram,Central,GEN,80.38,88.64,8.26
+51,Uthangarai,North,SC,79.08,87.21,8.13
+210,Tiruvadanai,South,GEN,69.47,77.59,8.12
+188,Melur,South,GEN,74.83,82.94,8.11
+144,Manachanallur,Delta,GEN,80.61,88.72,8.11
+128,Oddanchatram,South,GEN,83.67,91.57,7.9
+147,Perambalur,Central,SC,79.43,87.32,7.89
+91,Veerapandi,Central,GEN,86.43,94.27,7.84
+156,Kurinjipadi,Central,GEN,82.13,89.94,7.81
+213,Vilathikulam,South,GEN,77.45,85.19,7.74
+66,Polur,North,GEN,82.54,90.28,7.74
+167,Mannargudi,Delta,GEN,75.06,82.78,7.72
+184,Karaikudi,South,GEN,67.31,75.01,7.7
+230,Nagercoil,South,GEN,68.1,75.78,7.68
+190,Sholavandan,South,SC,80.2,87.87,7.67
+84,Omalur,Central,GEN,84.41,92.07,7.66
+151,Tittakudi,Central,SC,76.73,84.18,7.45
+178,Gandharvakottai,Delta,SC,78.19,85.6,7.41
+187,Manamadurai,South,SC,73.04,80.36,7.32
+160,Sirkali,Delta,SC,75.77,83.07,7.3
+143,Lalgudi,Delta,GEN,80.19,87.35,7.16
+173,Thiruvaiyaru,Delta,GEN,78.92,85.93,7.01
+231,Colachel,South,GEN,68.23,75.06,6.83
+154,Panruti,Central,GEN,80.46,87.25,6.79
+166,Thiruthuraipundi,Delta,SC,77.49,84.22,6.73
+53,Krishnagiri,North,GEN,79.14,85.76,6.62
+77,Ulundurpet,Central,GEN,83.53,90.13,6.6
+211,Ramanathapuram,South,GEN,69.56,76.07,6.51
+137,Kulithalai,Kongu,GEN,87.21,93.69,6.48
+181,Thirumayam,Delta,GEN,76.39,82.85,6.46
+200,Bodinayakanur,South,GEN,77.18,83.63,6.45
+159,Kattumannarkoil,Central,SC,76.65,83.1,6.45
+86,Edapadi,Central,GEN,87.14,93.5,6.36
+229,Kanniyakumari,South,GEN,76.82,82.88,6.06
+182,Alangudi,Delta,GEN,79.08,85.13,6.05
+212,Mudukulathur,South,GEN,71.18,77.2,6.02
+58,Pennagaram,North,GEN,85.98,91.99,6.01
+234,Killiyoor,South,GEN,66.73,72.23,5.5
+57,Palacode,North,GEN,88.13,93.62,5.49
+150,Jayankondam,Central,GEN,81.27,86.75,5.48
+185,Tiruppattur,South,GEN,72.8,78.27,5.47
+172,Papanasam,Delta,GEN,75.53,81.0,5.47
+232,Padmanabhapuram,South,GEN,71.25,76.59,5.34
+148,Kunnam,Central,GEN,80.88,86.02,5.14
+170,Thiruvidamarudur,Delta,SC,76.52,81.5,4.98
+169,Nannilam,Delta,GEN,81.62,86.55,4.93
+177,Peravurani,Delta,GEN,77.62,82.46,4.84
+175,Orathanad,Delta,GEN,79.03,83.62,4.59
+165,Vedaranyam,Delta,GEN,82.09,86.64,4.55
+149,Ariyalur,Central,GEN,85.21,89.7,4.49
+179,Viralimalai,Delta,GEN,86.41,90.6,4.19
+176,Pattukkottai,Delta,GEN,72.51,75.95,3.44

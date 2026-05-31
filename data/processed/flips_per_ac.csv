@@ -1,0 +1,235 @@
+ac_number,constituency,winner_2021,vote_pct_21,region,reserved,winner_2026,vote_pct_26,margin,flipped,vote_pct_diff
+1,Gummidipundi,DMK,57.4,Chennai Metro,GEN,TVK,40.73,27945,True,16.67
+2,Ponneri,INC,45.27,Chennai Metro,SC,TVK,48.88,55768,True,3.61
+3,Tiruttani,DMK,52.09,Chennai Metro,GEN,AIADMK,37.53,5793,True,14.56
+4,Thiruvallur,DMK,50.72,Chennai Metro,GEN,TVK,40.92,24760,True,9.8
+5,Poonamallee,DMK,57.34,Chennai Metro,SC,TVK,52.49,72740,True,4.85
+6,Avadi,DMK,50.34,Chennai Metro,GEN,TVK,52.37,76311,True,2.03
+7,Maduravoyal,DMK,44.64,Chennai Metro,GEN,TVK,48.5,61509,True,3.86
+8,Ambattur,DMK,48.14,Chennai Metro,GEN,TVK,51.58,58781,True,3.44
+9,Madavaram,DMK,50.41,Chennai Metro,GEN,TVK,52.82,94985,True,2.41
+10,Thiruvottiyur,DMK,44.34,Chennai Metro,GEN,TVK,53.36,53564,True,9.02
+11,Dr. Radhakrishnan Nagar,DMK,51.67,Chennai Metro,GEN,TVK,54.14,49668,True,2.47
+12,Perambur,DMK,52.93,Chennai Metro,GEN,TVK,59.07,53715,True,6.14
+13,Kolathur,DMK,61.4,Chennai Metro,GEN,TVK,45.31,8795,True,16.09
+14,Villivakkam,DMK,53.37,Chennai Metro,GEN,TVK,47.21,17302,True,6.16
+15,Thiru-Vi-Ka-Nagar,DMK,61.61,Chennai Metro,SC,TVK,48.21,22333,True,13.4
+16,Egmore,DMK,58.29,Chennai Metro,SC,TVK,45.28,10804,True,13.01
+17,Royapuram,DMK,53.56,Chennai Metro,GEN,TVK,46.57,14249,True,6.99
+18,Harbour,DMK,58.88,Chennai Metro,GEN,DMK,45.7,11750,False,13.18
+19,Chepauk-Thiruvallikeni,DMK,68.92,Chennai Metro,GEN,DMK,44.96,7140,False,23.96
+20,Thousand Lights,DMK,53.41,Chennai Metro,GEN,TVK,45.01,15141,True,8.4
+21,Anna Nagar,DMK,48.95,Chennai Metro,GEN,TVK,43.96,21363,True,4.99
+22,Virugampakkam,DMK,44.38,Chennai Metro,GEN,TVK,44.29,27086,True,0.09
+23,Saidapet,DMK,50.38,Chennai Metro,GEN,TVK,50.92,28514,True,0.54
+24,Theayagaraya Nagar,DMK,41.05,Chennai Metro,GEN,TVK,38.81,13027,True,2.24
+25,Mylapore,DMK,44.95,Chennai Metro,GEN,TVK,46.77,28972,True,1.82
+26,Velachery,INC,39.15,Chennai Metro,GEN,TVK,43.84,33305,True,4.69
+27,Shozhinganallur,DMK,44.52,Chennai Metro,GEN,TVK,49.5,96780,True,4.98
+28,Alandur,DMK,49.51,Chennai Metro,GEN,TVK,43.1,29609,True,6.41
+29,Sriperumbudur,INC,44.01,Chennai Metro,SC,TVK,44.74,54246,True,0.73
+30,Pallavaram,DMK,47.84,Chennai Metro,GEN,TVK,47.37,54693,True,0.47
+31,Tambaram,DMK,47.36,Chennai Metro,GEN,TVK,42.9,35621,True,4.46
+32,Chengalpattu,DMK,48.18,Chennai Metro,GEN,TVK,42.51,35641,True,5.67
+33,Thiruporur,VCK,41.8,North,GEN,TVK,42.16,39351,True,0.36
+34,Cheyyur,VCK,46.49,North,SC,AIADMK,34.16,5668,True,12.33
+35,Maduranthakam,AIADMK,46.97,North,SC,AIADMK,35.09,7194,False,11.88
+36,Uthiramerur,DMK,44.58,North,GEN,TVK,37.47,14223,True,7.11
+37,Kancheepuram,DMK,45.27,North,GEN,TVK,37.25,15488,True,8.02
+38,Arakonam,AIADMK,50.31,North,SC,TVK,40.66,23121,True,9.65
+39,Sholinghur,INC,49.46,North,GEN,TVK,36.25,5686,True,13.21
+40,Katpadi,DMK,46.18,North,GEN,TVK,34.46,5870,True,11.72
+41,Ranipet,DMK,50.18,North,GEN,TVK,41.46,5787,True,8.72
+42,Arcot,DMK,50.06,North,GEN,AIADMK,46.91,42720,True,3.15
+43,Vellore,DMK,47.24,North,GEN,TVK,38.48,6777,True,8.76
+44,Anaikattu,DMK,48.55,North,GEN,AIADMK,35.45,7081,True,13.1
+45,Kilvaithinankuppam,AIADMK,49.08,North,SC,TVK,39.33,20255,True,9.75
+46,Gudiyatham,DMK,47.83,North,SC,TVK,36.3,10097,True,11.53
+47,Vaniayambadi,AIADMK,46.69,North,GEN,IUML,34.53,2982,True,12.16
+48,Ambur,DMK,51.27,North,GEN,DMK,37.98,7131,False,13.29
+49,Jolarpet,DMK,45.89,North,GEN,AIADMK,37.03,16083,True,8.86
+50,Tiruppattur,DMK,52.37,North,GEN,TVK,51.91,48263,True,0.46
+51,Uthangarai,AIADMK,53.34,North,SC,TVK,34.3,5198,True,19.04
+52,Bargur,DMK,49.55,North,GEN,AIADMK,33.39,4241,True,16.16
+53,Krishnagiri,AIADMK,45.78,North,GEN,TVK,39.02,18844,True,6.76
+54,Veppanahalli,AIADMK,46.25,North,GEN,DMK,33.79,138,True,12.46
+55,Hosur,DMK,48.04,North,GEN,AIADMK,39.78,27803,True,8.26
+56,Thalli,CPI,62.82,North,GEN,CPI,38.31,5240,False,24.51
+57,Palacode,AIADMK,53.63,North,GEN,AIADMK,45.9,39042,False,7.73
+58,Pennagaram,PMK,50.89,North,GEN,TVK,35.63,3165,True,15.26
+59,Dharmapuri,PMK,48.99,North,GEN,PMK,39.44,20896,False,9.55
+60,Pappireddippatti,AIADMK,52.13,North,GEN,AIADMK,43.16,33114,False,8.97
+61,Harur,AIADMK,50.46,North,SC,AIADMK,34.44,3329,False,16.02
+62,Chengam,DMK,48.5,North,SC,AIADMK,36.31,13278,True,12.19
+63,Tiruvannamalai,DMK,66.72,North,GEN,DMK,40.26,2455,False,26.46
+64,Kilpennathur,DMK,51.58,North,GEN,AIADMK,41.26,30465,True,10.32
+65,Kalasapakkam,DMK,48.31,North,GEN,AIADMK,41.94,26740,True,6.37
+66,Polur,AIADMK,48.65,North,GEN,TVK,32.22,227,True,16.43
+67,Arani,AIADMK,46.86,North,GEN,AIADMK,33.44,5631,False,13.42
+68,Cheyyar,DMK,48.2,North,GEN,AIADMK,39.11,21081,True,9.09
+69,Vandavasi,DMK,55.41,North,SC,DMK,33.54,3333,False,21.87
+70,Gingee,DMK,53.58,Central,GEN,PMK,36.18,12645,True,17.4
+71,Mailam,PMK,46.02,Central,GEN,AIADMK,43.59,30041,True,2.43
+72,Tindivanam,AIADMK,48.15,Central,SC,VCK,32.68,734,True,15.47
+73,Vanur,AIADMK,50.99,Central,SC,DMK,35.95,7034,True,15.04
+74,Villupuram,DMK,50.16,Central,GEN,DMK,33.97,4119,False,16.19
+75,Vikravandi,DMK,48.69,Central,GEN,PMK,33.39,910,True,15.3
+76,Tirukkoyilur,DMK,57.15,Central,GEN,AIADMK,33.68,285,True,23.47
+77,Ulundurpet,DMK,47.59,Central,GEN,DMK,36.48,2277,False,11.11
+78,Rishivandiam,DMK,53.56,Central,GEN,DMK,36.73,4862,False,16.83
+79,Sankarapuram,DMK,56.41,Central,GEN,AIADMK,34.13,3440,True,22.28
+80,Kallakurichi,AIADMK,49.26,Central,SC,TVK,32.62,798,True,16.64
+81,Gangavalli,AIADMK,48.35,Central,SC,AIADMK,37.34,14404,False,11.01
+82,Attur,AIADMK,48.16,Central,SC,AIADMK,39.0,15318,False,9.16
+83,Yercaud,AIADMK,51.3,Central,ST,AIADMK,34.78,2189,False,16.52
+84,Omalur,AIADMK,57.59,Central,GEN,AIADMK,41.62,14539,False,15.97
+85,Mettur,PMK,44.89,Central,GEN,AIADMK,37.56,19105,True,7.33
+86,Edapadi,AIADMK,66.27,Central,GEN,AIADMK,57.97,98110,False,8.3
+87,Sankari,AIADMK,50.04,Central,GEN,AIADMK,35.93,9517,False,14.11
+88,Salem (West),PMK,49.07,Central,GEN,TVK,51.6,74867,True,2.53
+89,Salem (North),DMK,46.52,Central,GEN,TVK,40.91,14034,True,5.61
+90,Salem (South),AIADMK,49.22,Central,GEN,TVK,44.11,33369,True,5.11
+91,Veerapandi,AIADMK,50.24,Central,GEN,TVK,33.96,4071,True,16.28
+92,Rasipuram,DMK,46.58,Central,SC,TVK,36.7,14511,True,9.88
+93,Sendamangalam,DMK,45.99,Central,ST,TVK,33.01,2655,True,12.98
+94,Namakkal,DMK,51.83,Central,GEN,TVK,37.7,11008,True,14.13
+95,Paramathi-Velur,AIADMK,47.08,Central,GEN,AIADMK,32.56,308,False,14.52
+96,Tiruchengode,DMK,44.6,Central,GEN,TVK,41.71,28172,True,2.89
+97,Kumarapalayam,AIADMK,50.25,Central,GEN,TVK,39.67,7696,True,10.58
+98,Erode (East),INC,44.72,Kongu,GEN,TVK,43.17,23966,True,1.55
+99,Erode (West),DMK,49.49,Kongu,GEN,TVK,43.99,22250,True,5.5
+100,Modakurichi,BJP,43.52,Kongu,GEN,TVK,31.98,2430,True,11.54
+101,Dharapuram,DMK,46.85,Kongu,SC,AIADMK,40.78,16727,True,6.07
+102,Kangayam,DMK,47.38,Kongu,GEN,AIADMK,35.07,8133,True,12.31
+103,Perundurai,AIADMK,45.12,Kongu,GEN,AIADMK,35.17,9693,False,9.95
+104,Bhavani,AIADMK,50.63,Kongu,GEN,AIADMK,36.53,7396,False,14.1
+105,Anthiyur,DMK,45.11,Kongu,GEN,AIADMK,32.45,1260,True,12.66
+106,Gobichettipalayam,AIADMK,51.0,Kongu,GEN,TVK,37.75,16620,True,13.25
+107,Bhavanisagar,AIADMK,49.95,Kongu,SC,TVK,34.02,4569,True,15.93
+108,Udhagamandalam,INC,46.9,Kongu,GEN,BJP,32.94,976,True,13.96
+109,Gudalur,AIADMK,47.0,Kongu,SC,DMK,43.62,22833,True,3.38
+110,Coonoor,DMK,45.89,Kongu,GEN,DMK,35.88,8099,False,10.01
+111,Mettupalayam,AIADMK,47.33,Kongu,GEN,TVK,31.08,7768,True,16.25
+112,Avanashi,AIADMK,55.78,Kongu,SC,TVK,36.61,15373,True,19.17
+113,Tiruppur (North),AIADMK,48.06,Kongu,GEN,TVK,50.08,69992,True,2.02
+114,Tiruppur (South),DMK,43.59,Kongu,GEN,TVK,41.19,12901,True,2.4
+115,Palladam,AIADMK,48.86,Kongu,GEN,TVK,40.49,37897,True,8.37
+116,Sulur,AIADMK,49.77,Kongu,GEN,TVK,33.26,4790,True,16.51
+117,Kavundampalayam,AIADMK,44.19,Kongu,GEN,TVK,40.47,42140,True,3.72
+118,Coimbatore North,AIADMK,40.5,Kongu,GEN,TVK,41.09,21992,True,0.59
+119,Thondamuthur,AIADMK,54.27,Kongu,GEN,AIADMK,36.23,14725,False,18.04
+120,Coimbatore South,BJP,34.58,Kongu,GEN,DMK,38.35,2271,True,3.77
+121,Singanallur,AIADMK,40.5,Kongu,GEN,TVK,38.31,19139,True,2.19
+122,Kinathukadavu,AIADMK,44.12,Kongu,GEN,TVK,37.55,11710,True,6.57
+123,Pollachi,AIADMK,45.84,Kongu,GEN,DMK,34.39,4627,True,11.45
+124,Valparai,AIADMK,49.86,Kongu,SC,DMK,36.51,9371,True,13.35
+125,Udumalpet,AIADMK,50.23,Kongu,GEN,DMK,33.86,2882,True,16.37
+126,Madathukulam,AIADMK,46.62,Kongu,GEN,DMK,37.61,15968,True,9.01
+127,Palani,DMK,53.15,South,GEN,AIADMK,32.23,693,True,20.92
+128,Oddanchatram,DMK,54.9,South,GEN,DMK,46.52,43249,False,8.38
+129,Athoor,DMK,72.6,South,GEN,DMK,44.95,22368,False,27.65
+130,Nilakottai,AIADMK,49.83,South,SC,TVK,34.82,2925,True,15.01
+131,Natham,AIADMK,48.15,South,GEN,AIADMK,35.93,11869,False,12.22
+132,Dindigul,AIADMK,46.86,South,GEN,DMK,35.27,1131,True,11.59
+133,Vedasandur,DMK,50.16,South,GEN,DMK,37.57,10063,False,12.59
+134,Aravakurichi,DMK,52.98,Kongu,GEN,DMK,39.25,19382,False,13.73
+135,Karur,DMK,49.31,Kongu,GEN,AIADMK,33.08,1821,True,16.23
+136,Krishnarayapuram,DMK,53.72,Kongu,SC,TVK,33.03,3503,True,20.69
+137,Kulithalai,DMK,51.37,Kongu,GEN,DMK,32.68,579,False,18.69
+138,Manapparai,DMK,44.43,Delta,GEN,TVK,34.56,1426,True,9.87
+139,Srirangam,DMK,47.89,Delta,GEN,TVK,40.63,33590,True,7.26
+140,Tiruchirapalli (West),DMK,65.27,Delta,GEN,DMK,45.19,4786,False,20.08
+141,Tiruchirapalli (East),DMK,55.04,Delta,GEN,TVK,50.22,27416,True,4.82
+142,Thiruverambur,DMK,53.9,Delta,GEN,TVK,42.21,8705,True,11.69
+143,Lalgudi,DMK,48.93,Delta,GEN,AIADMK,32.89,2739,True,16.04
+144,Manachanallur,DMK,59.46,Delta,GEN,DMK,38.94,12364,False,20.52
+145,Musiri,DMK,50.74,Delta,GEN,TVK,37.91,17442,True,12.83
+146,Thuraiyur,DMK,50.37,Delta,SC,TVK,36.07,9614,True,14.3
+147,Perambalur,DMK,51.27,Central,SC,TVK,35.99,14393,True,15.28
+148,Kunnam,DMK,47.43,Central,GEN,DMK,37.91,15557,False,9.52
+149,Ariyalur,DMK,46.45,Central,GEN,AIADMK,40.48,24498,True,5.97
+150,Jayankondam,DMK,46.4,Central,GEN,PMK,39.01,18490,True,7.39
+151,Tittakudi,DMK,50.08,Central,SC,DMK,36.03,2629,False,14.05
+152,Vriddhachalam,INC,39.32,Central,GEN,DMDK,33.27,2387,True,6.05
+153,Neyveli,DMK,46.13,Central,GEN,AIADMK,37.93,10962,True,8.2
+154,Panruti,DMK,47.92,Central,GEN,AIADMK,37.36,10663,True,10.56
+155,Cuddalore,DMK,46.78,Central,GEN,TVK,37.39,15519,True,9.39
+156,Kurinjipadi,DMK,51.35,Central,GEN,DMK,35.95,7589,False,15.4
+157,Bhuvanagiri,AIADMK,49.18,Central,GEN,AIADMK,36.64,2487,False,12.54
+158,Chidambaram,AIADMK,50.49,Central,GEN,DMK,35.62,5747,True,14.87
+159,Kattumannarkoil,VCK,49.2,Central,SC,VCK,45.44,33063,False,3.76
+160,Sirkali,DMK,49.41,Delta,SC,DMK,35.74,11417,False,13.67
+161,Mayiladuthurai,INC,42.43,Delta,GEN,INC,36.18,10845,False,6.25
+162,Poompuhar,DMK,46.4,Delta,GEN,DMK,37.07,8260,False,9.33
+163,Nagapattinam,VCK,46.46,Delta,GEN,DMK,37.33,9781,True,9.13
+164,Kilvelur,CPI(M),47.85,Delta,SC,CPI(M),37.13,2278,False,10.72
+165,Vedaranyam,AIADMK,50.02,Delta,GEN,AIADMK,36.6,7331,False,13.42
+166,Thiruthuraipundi,CPI,52.6,Delta,SC,CPI,38.93,12922,False,13.67
+167,Mannargudi,DMK,45.34,Delta,GEN,AMMK,35.32,1566,True,10.02
+168,Thiruvarur,DMK,52.7,Delta,GEN,DMK,43.04,18148,False,9.66
+169,Nannilam,AIADMK,46.95,Delta,GEN,AIADMK,44.88,41724,False,2.07
+170,Thiruvidamarudur,DMK,48.56,Delta,SC,DMK,38.4,14116,False,10.16
+171,Kumbakonam,DMK,49.03,Delta,GEN,TVK,37.94,679,True,11.09
+172,Papanasam,DMK,44.22,Delta,GEN,IUML,33.47,1065,True,10.75
+173,Thiruvaiyaru,DMK,49.09,Delta,GEN,DMK,36.36,8555,False,12.73
+174,Thanjavur,DMK,53.79,Delta,GEN,TVK,44.4,16955,True,9.39
+175,Orathanad,AIADMK,47.16,Delta,GEN,DMK,44.57,35028,True,2.59
+176,Pattukkottai,DMK,44.88,Delta,GEN,DMK,36.04,13754,False,8.84
+177,Peravurani,DMK,52.4,Delta,GEN,DMK,34.7,3162,False,17.7
+178,Gandharvakottai,CPI(M),44.62,Delta,SC,TVK,35.31,11039,True,9.31
+179,Viralimalai,AIADMK,52.93,Delta,GEN,AIADMK,51.97,62073,False,0.96
+180,Pudukkottai,DMK,47.86,Delta,GEN,DMK,35.19,1867,False,12.67
+181,Thirumayam,DMK,41.13,Delta,GEN,DMK,32.04,1492,False,9.09
+182,Alangudi,DMK,51.38,Delta,GEN,DMK,36.11,12977,False,15.27
+183,Arantangi,INC,48.85,Delta,GEN,TVK,40.21,10062,True,8.64
+184,Karaikudi,INC,35.98,South,GEN,TVK,44.31,46074,True,8.33
+185,Tiruppattur,DMK,49.39,South,GEN,TVK,38.79,1,True,10.6
+186,Sivaganga,AIADMK,40.92,South,GEN,TVK,34.62,15081,True,6.3
+187,Manamadurai,DMK,44.3,South,SC,TVK,33.67,1208,True,10.63
+188,Melur,AIADMK,45.82,South,GEN,INC,31.59,2724,True,14.23
+189,Madurai East,DMK,52.02,South,GEN,TVK,43.93,16547,True,8.09
+190,Sholavandan,DMK,48.3,South,SC,TVK,33.9,2678,True,14.4
+191,Madurai North,DMK,47.11,South,GEN,TVK,45.24,18038,True,1.87
+192,Madurai South,DMK,42.94,South,GEN,TVK,44.3,21529,True,1.36
+193,Madurai Central,DMK,49.47,South,GEN,TVK,42.87,19128,True,6.6
+194,Madurai West,AIADMK,41.96,South,GEN,TVK,40.95,11931,True,1.01
+195,Thiruparankundram,AIADMK,44.35,South,GEN,TVK,44.95,41553,True,0.6
+196,Thirumangalam,AIADMK,45.71,South,GEN,DMK,38.38,23807,True,7.33
+197,Usilampatti,AIADMK,33.69,South,GEN,TVK,29.43,1805,True,4.26
+198,Andipatti,DMK,44.93,South,GEN,DMK,34.36,9554,False,10.57
+199,Periyakulam,DMK,46.28,South,SC,TVK,40.85,19321,True,5.43
+200,Bodinayakanur,AIADMK,46.89,South,GEN,DMK,38.78,6805,True,8.11
+201,Cumbum,DMK,52.24,South,GEN,TVK,40.68,751,True,11.56
+202,Rajapalayam,DMK,41.94,South,GEN,TVK,35.96,10605,True,5.98
+203,Srivilliputhur,AIADMK,38.43,South,SC,TVK,34.09,8581,True,4.34
+204,Sattur,DMK,38.94,South,GEN,DMK,31.3,5989,False,7.64
+205,Sivakasi,INC,43.07,South,GEN,TVK,35.68,11670,True,7.39
+206,Virudhunagar,DMK,45.77,South,GEN,TVK,38.14,9391,True,7.63
+207,Aruppukottai,DMK,53.59,South,GEN,DMK,36.63,4943,False,16.96
+208,Tiruchuli,DMK,59.41,South,GEN,DMK,41.52,13485,False,17.89
+209,Paramakudi,DMK,46.91,South,SC,DMK,31.29,3548,False,15.62
+210,Tiruvadanai,INC,39.48,South,GEN,TVK,31.63,2513,True,7.85
+211,Ramanathapuram,DMK,52.07,South,GEN,DMK,37.67,12459,False,14.4
+212,Mudukulathur,DMK,46.17,South,GEN,DMK,29.45,16598,False,16.72
+213,Vilathikulam,DMK,54.38,South,GEN,DMK,33.53,8228,False,20.85
+214,Thoothukkudi,DMK,49.41,South,GEN,TVK,49.32,37731,True,0.09
+215,Tiruchendur,DMK,50.88,South,GEN,DMK,39.24,5872,False,11.64
+216,Srivaikuntam,INC,46.96,South,GEN,TVK,33.45,1186,True,13.51
+217,Ottapidaram,DMK,41.48,South,SC,TVK,41.81,29083,True,0.33
+218,Kovilpatti,AIADMK,38.13,South,GEN,DMK,31.83,843,True,6.3
+219,Sankarankovil,DMK,39.34,South,SC,AIADMK,33.11,6489,True,6.23
+220,Vasudevanallur,DMK,39.57,South,SC,DMK,33.33,6583,False,6.24
+221,Kadayanallur,AIADMK,43.3,South,GEN,DMK,36.05,6253,True,7.25
+222,Tenkasi,INC,41.94,South,GEN,DMK,34.01,10299,True,7.93
+223,Alangulam,AIADMK,36.77,South,GEN,DMK,31.46,7798,True,5.31
+224,Tirunelveli,BJP,47.2,South,GEN,TVK,34.84,11414,True,12.36
+225,Ambasamudram,AIADMK,48.41,South,GEN,AIADMK,34.5,10245,False,13.91
+226,Palayamcottai,DMK,55.89,South,GEN,DMK,44.36,13805,False,11.53
+227,Nanguneri,INC,39.74,South,GEN,TVK,35.91,16419,True,3.83
+228,Radhapuram,DMK,44.17,South,GEN,TVK,35.07,12313,True,9.1
+229,Kanniyakumari,AIADMK,49.04,South,GEN,AIADMK,31.49,214,False,17.55
+230,Nagercoil,BJP,48.46,South,GEN,DMK,35.68,7570,True,12.78
+231,Colachel,INC,49.8,South,GEN,INC,33.37,2833,False,16.43
+232,Padmanabhapuram,DMK,51.88,South,GEN,CPI(M),38.31,15569,True,13.57
+233,Vilavancode,INC,52.36,South,GEN,INC,40.64,20970,False,11.72
+234,Killiyoor,INC,60.03,South,GEN,INC,37.53,1311,False,22.5

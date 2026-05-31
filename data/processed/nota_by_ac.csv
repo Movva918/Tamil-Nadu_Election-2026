@@ -1,0 +1,235 @@
+ac_number,NOTA Votes,Valid Votes Polled,nota_pct,constituency,region,reserved
+1,937,231585,0.405,Gummidipundi,Chennai Metro,GEN
+2,865,225954,0.383,Ponneri,Chennai Metro,SC
+3,1210,237588,0.509,Tiruttani,Chennai Metro,GEN
+4,1132,225296,0.502,Thiruvallur,Chennai Metro,GEN
+5,1571,307323,0.511,Poonamallee,Chennai Metro,SC
+6,1533,344472,0.445,Avadi,Chennai Metro,GEN
+7,1462,292230,0.5,Maduravoyal,Chennai Metro,GEN
+8,1490,258496,0.576,Ambattur,Chennai Metro,GEN
+9,1394,360604,0.387,Madavaram,Chennai Metro,GEN
+10,805,206283,0.39,Thiruvottiyur,Chennai Metro,GEN
+11,561,180645,0.311,Dr. Radhakrishnan Nagar,Chennai Metro,GEN
+12,601,203783,0.295,Perambur,Chennai Metro,GEN
+13,892,183159,0.487,Kolathur,Chennai Metro,GEN
+14,695,140757,0.494,Villivakkam,Chennai Metro,GEN
+15,527,143376,0.368,Thiru-Vi-Ka-Nagar,Chennai Metro,SC
+16,695,119043,0.584,Egmore,Chennai Metro,SC
+17,459,126897,0.362,Royapuram,Chennai Metro,GEN
+18,600,99022,0.606,Harbour,Chennai Metro,GEN
+19,643,140098,0.459,Chepauk-Thiruvallikeni,Chennai Metro,GEN
+20,815,131009,0.622,Thousand Lights,Chennai Metro,GEN
+21,963,162376,0.593,Anna Nagar,Chennai Metro,GEN
+22,1030,171801,0.6,Virugampakkam,Chennai Metro,GEN
+23,924,159477,0.579,Saidapet,Chennai Metro,GEN
+24,878,133050,0.66,Theayagaraya Nagar,Chennai Metro,GEN
+25,770,149824,0.514,Mylapore,Chennai Metro,GEN
+26,1336,183479,0.728,Velachery,Chennai Metro,GEN
+27,2079,445216,0.467,Shozhinganallur,Chennai Metro,GEN
+28,1263,260307,0.485,Alandur,Chennai Metro,GEN
+29,1161,329927,0.352,Sriperumbudur,Chennai Metro,SC
+30,1602,282075,0.568,Pallavaram,Chennai Metro,GEN
+31,1512,277297,0.545,Tambaram,Chennai Metro,GEN
+32,1395,322615,0.432,Chengalpattu,Chennai Metro,GEN
+33,1248,261161,0.478,Thiruporur,North,GEN
+34,783,186801,0.419,Cheyyur,North,SC
+35,797,197454,0.404,Maduranthakam,North,SC
+36,1114,226651,0.492,Uthiramerur,North,GEN
+37,1078,245239,0.44,Kancheepuram,North,GEN
+38,899,181441,0.495,Arakonam,North,SC
+39,572,233112,0.245,Sholinghur,North,GEN
+40,745,202752,0.367,Katpadi,North,GEN
+41,1209,219829,0.55,Ranipet,North,GEN
+42,656,225130,0.291,Arcot,North,GEN
+43,757,189770,0.399,Vellore,North,GEN
+44,1103,215215,0.513,Anaikattu,North,GEN
+45,972,188920,0.515,Kilvaithinankuppam,North,SC
+46,799,228277,0.35,Gudiyatham,North,SC
+47,624,211910,0.294,Vaniayambadi,North,GEN
+48,468,195116,0.24,Ambur,North,GEN
+49,695,212347,0.327,Jolarpet,North,GEN
+50,464,202461,0.229,Tiruppattur,North,GEN
+51,881,204649,0.43,Uthangarai,North,SC
+52,631,213329,0.296,Bargur,North,GEN
+53,1136,229045,0.496,Krishnagiri,North,GEN
+54,1570,221038,0.71,Veppanahalli,North,GEN
+55,1614,276156,0.584,Hosur,North,GEN
+56,1550,204328,0.759,Thalli,North,GEN
+57,1292,223965,0.577,Palacode,North,GEN
+58,674,227992,0.296,Pennagaram,North,GEN
+59,941,237638,0.396,Dharmapuri,North,GEN
+60,677,235944,0.287,Pappireddippatti,North,GEN
+61,782,219260,0.357,Harur,North,SC
+62,1114,241783,0.461,Chengam,North,SC
+63,785,219281,0.358,Tiruvannamalai,North,GEN
+64,440,219350,0.201,Kilpennathur,North,GEN
+65,423,213704,0.198,Kalasapakkam,North,GEN
+66,798,210945,0.378,Polur,North,GEN
+67,707,229455,0.308,Arani,North,GEN
+68,950,221620,0.429,Cheyyar,North,GEN
+69,988,190216,0.519,Vandavasi,North,SC
+70,508,216144,0.235,Gingee,Central,GEN
+71,299,188922,0.158,Mailam,Central,GEN
+72,714,195312,0.366,Tindivanam,Central,SC
+73,519,191600,0.271,Vanur,Central,SC
+74,573,214849,0.267,Villupuram,Central,GEN
+75,401,208830,0.192,Vikravandi,Central,GEN
+76,500,216818,0.231,Tirukkoyilur,Central,GEN
+77,1051,269951,0.389,Ulundurpet,Central,GEN
+78,534,244261,0.219,Rishivandiam,Central,GEN
+79,383,235145,0.163,Sankarapuram,Central,GEN
+80,883,248743,0.355,Kallakurichi,Central,SC
+81,731,195948,0.373,Gangavalli,Central,SC
+82,1031,207265,0.497,Attur,Central,SC
+83,1250,252342,0.495,Yercaud,Central,ST
+84,1433,269686,0.531,Omalur,Central,GEN
+85,794,230311,0.345,Mettur,Central,GEN
+86,1341,256922,0.522,Edapadi,Central,GEN
+87,711,243068,0.293,Sankari,Central,GEN
+88,1052,233355,0.451,Salem (West),Central,GEN
+89,1205,209507,0.575,Salem (North),Central,GEN
+90,745,207157,0.36,Salem (South),Central,GEN
+91,594,235281,0.252,Veerapandi,Central,GEN
+92,863,203817,0.423,Rasipuram,Central,SC
+93,1211,208476,0.581,Sendamangalam,Central,ST
+94,760,211523,0.359,Namakkal,Central,GEN
+95,449,188396,0.238,Paramathi-Velur,Central,GEN
+96,520,190602,0.273,Tiruchengode,Central,GEN
+97,665,204659,0.325,Kumarapalayam,Central,GEN
+98,879,161574,0.544,Erode (East),Kongu,GEN
+99,1257,220143,0.571,Erode (West),Kongu,GEN
+100,925,189834,0.487,Modakurichi,Kongu,GEN
+101,1058,198886,0.532,Dharapuram,Kongu,SC
+102,706,202828,0.348,Kangayam,Kongu,GEN
+103,812,199874,0.406,Perundurai,Kongu,GEN
+104,1409,206914,0.681,Bhavani,Kongu,GEN
+105,754,185021,0.408,Anthiyur,Kongu,GEN
+106,907,218820,0.414,Gobichettipalayam,Kongu,GEN
+107,1804,212791,0.848,Bhavanisagar,Kongu,SC
+108,1525,147179,1.036,Udhagamandalam,Kongu,GEN
+109,871,150370,0.579,Gudalur,Kongu,SC
+110,720,140674,0.512,Coonoor,Kongu,GEN
+111,839,243480,0.345,Mettupalayam,Kongu,GEN
+112,1563,230037,0.679,Avanashi,Kongu,SC
+113,1078,262379,0.411,Tiruppur (North),Kongu,GEN
+114,644,179170,0.359,Tiruppur (South),Kongu,GEN
+115,1417,299597,0.473,Palladam,Kongu,GEN
+116,1353,272191,0.497,Sulur,Kongu,GEN
+117,2116,361875,0.585,Kavundampalayam,Kongu,GEN
+118,1020,225089,0.453,Coimbatore North,Kongu,GEN
+119,1000,257549,0.388,Thondamuthur,Kongu,GEN
+120,759,155740,0.487,Coimbatore South,Kongu,GEN
+121,1346,219687,0.613,Singanallur,Kongu,GEN
+122,1717,266200,0.645,Kinathukadavu,Kongu,GEN
+123,849,180347,0.471,Pollachi,Kongu,GEN
+124,675,149756,0.451,Valparai,Kongu,SC
+125,1149,202426,0.568,Udumalpet,Kongu,GEN
+126,911,187338,0.486,Madathukulam,Kongu,GEN
+127,750,207869,0.361,Palani,South,GEN
+128,1491,200133,0.745,Oddanchatram,South,GEN
+129,812,236371,0.344,Athoor,South,GEN
+130,642,196951,0.326,Nilakottai,South,SC
+131,596,238544,0.25,Natham,South,GEN
+132,833,211191,0.394,Dindigul,South,GEN
+133,474,226080,0.21,Vedasandur,South,GEN
+134,637,180441,0.353,Aravakurichi,Kongu,GEN
+135,539,216290,0.249,Karur,Kongu,GEN
+136,525,188832,0.278,Krishnarayapuram,Kongu,SC
+137,612,208479,0.294,Kulithalai,Kongu,GEN
+138,949,240267,0.395,Manapparai,Delta,GEN
+139,929,254056,0.366,Srirangam,Delta,GEN
+140,1098,195249,0.562,Tiruchirapalli (West),Delta,GEN
+141,514,181979,0.282,Tiruchirapalli (East),Delta,GEN
+142,745,212838,0.35,Thiruverambur,Delta,GEN
+143,390,184823,0.211,Lalgudi,Delta,GEN
+144,599,209181,0.286,Manachanallur,Delta,GEN
+145,1093,188048,0.581,Musiri,Delta,GEN
+146,697,183729,0.379,Thuraiyur,Delta,SC
+147,1160,252494,0.459,Perambalur,Central,SC
+148,484,230086,0.21,Kunnam,Central,GEN
+149,641,235217,0.273,Ariyalur,Central,GEN
+150,416,228132,0.182,Jayankondam,Central,GEN
+151,584,175170,0.333,Tittakudi,Central,SC
+152,755,208431,0.362,Vriddhachalam,Central,GEN
+153,768,168012,0.457,Neyveli,Central,GEN
+154,907,209860,0.432,Panruti,Central,GEN
+155,894,189484,0.472,Cuddalore,Central,GEN
+156,629,213336,0.295,Kurinjipadi,Central,GEN
+157,681,206629,0.33,Bhuvanagiri,Central,GEN
+158,816,195770,0.417,Chidambaram,Central,GEN
+159,465,187440,0.248,Kattumannarkoil,Central,SC
+160,555,199893,0.278,Sirkali,Delta,SC
+161,474,187987,0.252,Mayiladuthurai,Delta,GEN
+162,586,218738,0.268,Poompuhar,Delta,GEN
+163,479,150847,0.318,Nagapattinam,Delta,GEN
+164,545,151092,0.361,Kilvelur,Delta,SC
+165,563,161653,0.348,Vedaranyam,Delta,GEN
+166,797,190233,0.419,Thiruthuraipundi,Delta,SC
+167,405,193695,0.209,Mannargudi,Delta,GEN
+168,825,217050,0.38,Thiruvarur,Delta,GEN
+169,936,230508,0.406,Nannilam,Delta,GEN
+170,747,208197,0.359,Thiruvidamarudur,Delta,SC
+171,960,207328,0.463,Kumbakonam,Delta,GEN
+172,716,207007,0.346,Papanasam,Delta,GEN
+173,948,221163,0.429,Thiruvaiyaru,Delta,GEN
+174,1274,197524,0.645,Thanjavur,Delta,GEN
+175,631,194673,0.324,Orathanad,Delta,GEN
+176,738,183007,0.403,Pattukkottai,Delta,GEN
+177,695,175579,0.396,Peravurani,Delta,GEN
+178,1127,166491,0.677,Gandharvakottai,Delta,SC
+179,375,203546,0.184,Viralimalai,Delta,GEN
+180,467,189911,0.246,Pudukkottai,Delta,GEN
+181,945,181667,0.52,Thirumayam,Delta,GEN
+182,673,179810,0.374,Alangudi,Delta,GEN
+183,580,182150,0.318,Arantangi,Delta,GEN
+184,519,228748,0.227,Karaikudi,South,GEN
+185,747,214963,0.348,Tiruppattur,South,GEN
+186,1053,213014,0.494,Sivaganga,South,GEN
+187,846,207797,0.407,Manamadurai,South,SC
+188,554,190172,0.291,Melur,South,GEN
+189,1177,270389,0.435,Madurai East,South,GEN
+190,571,188509,0.303,Sholavandan,South,SC
+191,753,161048,0.468,Madurai North,South,GEN
+192,612,140891,0.434,Madurai South,South,GEN
+193,656,147930,0.443,Madurai Central,South,GEN
+194,893,215510,0.414,Madurai West,South,GEN
+195,1148,254318,0.451,Thiruparankundram,South,GEN
+196,933,230047,0.406,Thirumangalam,South,GEN
+197,692,223356,0.31,Usilampatti,South,GEN
+198,1028,216301,0.475,Andipatti,South,GEN
+199,1506,209703,0.718,Periyakulam,South,SC
+200,931,219697,0.424,Bodinayakanur,South,GEN
+201,667,209907,0.318,Cumbum,South,GEN
+202,753,182267,0.413,Rajapalayam,South,GEN
+203,873,192598,0.453,Srivilliputhur,South,SC
+204,476,198258,0.24,Sattur,South,GEN
+205,948,192569,0.492,Sivakasi,South,GEN
+206,954,166878,0.572,Virudhunagar,South,GEN
+207,692,177721,0.389,Aruppukottai,South,GEN
+208,425,180825,0.235,Tiruchuli,South,GEN
+209,710,189043,0.376,Paramakudi,South,SC
+210,354,219924,0.161,Tiruvadanai,South,GEN
+211,953,236623,0.403,Ramanathapuram,South,GEN
+212,429,230944,0.186,Mudukulathur,South,GEN
+213,642,174172,0.369,Vilathikulam,South,GEN
+214,853,203859,0.418,Thoothukkudi,South,GEN
+215,722,185328,0.39,Tiruchendur,South,GEN
+216,579,175842,0.329,Srivaikuntam,South,GEN
+217,879,195238,0.45,Ottapidaram,South,SC
+218,593,193639,0.306,Kovilpatti,South,GEN
+219,560,195920,0.286,Sankarankovil,South,SC
+220,637,189158,0.337,Vasudevanallur,South,SC
+221,527,221424,0.238,Kadayanallur,South,GEN
+222,673,234314,0.287,Tenkasi,South,GEN
+223,982,219875,0.447,Alangulam,South,GEN
+224,717,217708,0.329,Tirunelveli,South,GEN
+225,1060,190135,0.557,Ambasamudram,South,GEN
+226,851,179769,0.473,Palayamcottai,South,GEN
+227,721,208698,0.345,Nanguneri,South,GEN
+228,469,199462,0.235,Radhapuram,South,GEN
+229,825,238325,0.346,Kanniyakumari,South,GEN
+230,447,195833,0.228,Nagercoil,South,GEN
+231,581,198432,0.293,Colachel,South,GEN
+232,615,179940,0.342,Padmanabhapuram,South,GEN
+233,828,174099,0.476,Vilavancode,South,GEN
+234,502,177032,0.284,Killiyoor,South,GEN
