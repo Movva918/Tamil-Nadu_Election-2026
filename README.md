@@ -23,7 +23,7 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 *163 of 234 seats (70%) changed winning party. Grey ribbons = seats held by theß same party.*
 
-![Where Tamil Nadu's 234 seats went](sankey_2021_to_2026.png)
+![Where Tamil Nadu's 234 seats went](charts/sankey_2021_to_2026.png)
 
 ---
 
@@ -31,7 +31,7 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 *Chennai Metro dominated the top 20 biggest turnout risers — constituencies that were the state's lowest in 2021 became mid-pack in 2026.*
 
-![Top 20 Turnout Surge Constituencies](turnout_top20.png)
+![Top 20 Turnout Surge Constituencies](charts/turnout_top20.png)
 
 ---
 
@@ -39,7 +39,7 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 *TVK pulled 31–47% in every region. DMK and AIADMK each fell in all six.*
 
-![TVK vote share was remarkably even across Tamil Nadu](voteshare_by_region.png)
+![TVK vote share was remarkably even across Tamil Nadu](charts/voteshare_by_region.png)
 
 ---
 
@@ -47,7 +47,7 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 *TVK entered at 34.9%. The two parties that previously split ~70% of the vote each shed more than 12 points.*
 
-![TVK entered with 34.9% of the state-wide vote](voteshare_statewide_neutral.png)
+![TVK entered with 34.9% of the state-wide vote](charts/voteshare_statewide.png)
 
 ---
 
@@ -55,7 +55,7 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 *In 2021, 84 winners crossed 50% vote share. In 2026, only 14 did. The election became a multi-way contest in nearly every constituency.*
 
-![Margins collapsed: 64 winners under 35%, up from 2](margins_distribution.png)
+![Margins collapsed: 64 winners under 35%, up from 2](charts/margins_distribution.png)
 
 ---
 
