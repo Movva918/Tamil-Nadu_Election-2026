@@ -21,8 +21,7 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 ## 🚀 Live Dashboard
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Movva918-tn-election-2026.streamlit.app)
-
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://tn-election-2026.streamlit.app)
 ---
 
 ## 📊 Story 1 — Where the 234 Seats Went
