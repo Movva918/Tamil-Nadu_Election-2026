@@ -19,6 +19,12 @@ Data storytelling on the 2026 Tamil Nadu Legislative Assembly Election results. 
 
 ---
 
+## 🚀 Live Dashboard
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Movva918-tn-election-2026.streamlit.app)
+
+---
+
 ## 📊 Story 1 — Where the 234 Seats Went
 
 *163 of 234 seats (70%) changed winning party. Grey ribbons = seats held by theß same party.*
